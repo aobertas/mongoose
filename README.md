@@ -1,4 +1,4 @@
-# mongoose
+# MONGOOSE
 
 This is a repository for people to share notes, notebooks, papers, and slides related to the MONGOOSE (dynamics) discussion group at the Canadian Institute for Theoretical Astrophysics (CITA).
 
